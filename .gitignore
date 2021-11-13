@@ -1,0 +1,10 @@
+*.o
+*.orig
+*.diff
+*.a
+*.rej
+
+dmenu_run
+dmenu_path
+dmenu
+stest
